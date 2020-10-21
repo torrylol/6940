@@ -6,3 +6,7 @@ The main premise of the game is simply clicking enter, causing the game to begin
 It also includes high and low score to track your best stats, you'll know when getting a new high/low score based on the [NEW] tag showed in the program.
 
 Created by torrylol
+
+DEMO VIDEO:
+
+https://youtu.be/xCFZuo9HZAg
